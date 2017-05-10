@@ -1,3 +1,7 @@
+---
+title: Install Kubernetes on Openstack
+layout: post
+---
 # Kubernetes deployment on Openstack
 
 There are many ways to deploy kubernetes, this tutorial will describe a deployment from the beginning to the end. 
