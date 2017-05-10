@@ -1,6 +1,6 @@
 ---
 title: test
-layout: blog
+layout: page
 ---
 ## Installing Kubernetes on Openstack
 
