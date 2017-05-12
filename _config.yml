@@ -1,4 +1,1 @@
-name: Atze de Vries
-markdown: kramdown
 theme: jekyll-theme-minimal
-permalink: /:year/:month/:day/:title
