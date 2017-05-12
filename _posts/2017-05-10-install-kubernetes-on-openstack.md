@@ -1,6 +1,7 @@
 ---
 title: Install Kubernetes on Openstack
 layout: post
+date: 2017-05-10
 ---
 # Kubernetes deployment on Openstack
 
